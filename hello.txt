@@ -1,8 +1,1 @@
-aaaaa
-<<<<<<< HEAD
-zzzzz
-xxxxx
-=======
-bbbbb
-ccccc
->>>>>>> dev
+Hello , how are you ?
